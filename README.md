@@ -1,4 +1,4 @@
-## Usage:
+## Usage
 - VS2019 and below: Put `OLEDLG.dll` in the IDE directory
 - VS2022 and above: Put `vcruntime140_1.dll` in the IDE directory
 
